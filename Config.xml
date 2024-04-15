@@ -1,0 +1,17 @@
+<config>
+    <site>
+        <name>My Website</name>
+        <description>A sample website</description>
+        <author>John Doe</author>
+    </site>
+    <database>
+        <host>localhost</host>
+        <username>myuser</username>
+        <password>mypassword</password>
+        <dbname>mydatabase</dbname>
+    </database>
+    <server>
+        <port>80</port>
+        <timezone>UTC</timezone>
+    </server>
+</config>

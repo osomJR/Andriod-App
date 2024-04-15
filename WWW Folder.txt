@@ -1,0 +1,14 @@
+/www
+│
+├── /css
+│   └── styles.css
+│
+├── /js
+│   └── script.js
+│
+├── /images
+│   └── logo.png
+│
+├── index.html
+│
+└── config.xml
